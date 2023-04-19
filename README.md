@@ -2,7 +2,7 @@
 In this project, we are predicting if a transaction is a fraud or legal by builing end-to-end binary classification models.<br>
 This is a practice notebook to learn about Exploratory Data Analysis and Data Modelling.
 The project was started by some data explanatory analysis such as data profiling, data cleansing, data transformation, principal component analysis, <br>
-Following by data modeling such as Logistic Regression, Support Vector Machine technique, Random Forest, and XGBoost via parameter tuning with Random Grid Search Cross Validation method. <br>
+Following by data modeling such as Logistic Regression, Support Vector Machine technique, Random Forest, and XGBoost via parameter tuning with Random Grid Search Cross Validation method. <br> 
 Various charts and evaluation metrics are used to compare results such as Confusion Mtrix, ROC curve, Precision-Recall curve, Gain and lift chart, and K-S Statistics.
 
 * ROC Curve:
